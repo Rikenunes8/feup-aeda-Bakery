@@ -3,6 +3,7 @@ Project for the Algorithms and Data Structures course @ FEUP - 2020/2021
 
 The main goal of this project was to develop an information system for a Bakery in C/C++, using the most suitable data structures. In the first part of the project we couldn't use non-linear data structures. In the second part we must use them.
 
+**Grades:**
 | Part 1 | Part 2 |
 | :----: | :----: |
 | 19.3   | 19.4   |
